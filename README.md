@@ -16,3 +16,8 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 - User Profiles: Showcase your language skills and learning goals
 - Friend Requests: Build your network of language partners
 - Notifications: Stay updated on new connections and messages
+
+
+## 🛠️ Technologies
+
+- Frontend: React.js, React Router
