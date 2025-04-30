@@ -26,3 +26,11 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 - State Management: React Query, Context API
 - Authentication: JWT-based auth flow
 - APIs: RESTful backend services
+
+## 🚀 Usage
+
+- Sign Up/Login: Create an account or log in to access the platform
+- Complete Onboarding: Set up your profile with language preferences
+- Find Partners: Browse recommended users based on mutual language interests
+- Connect: Send friend requests to potential language partners
+- Communicate: Start video calls or chat conversations to practice together
