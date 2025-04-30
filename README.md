@@ -21,3 +21,8 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 ## 🛠️ Technologies
 
 - Frontend: React.js, React Router
+- Backend: Express, MongoDB, Node.js
+- Styling: TailwindCSS with DaisyUI components
+- State Management: React Query, Context API
+- Authentication: JWT-based auth flow
+- APIs: RESTful backend services
