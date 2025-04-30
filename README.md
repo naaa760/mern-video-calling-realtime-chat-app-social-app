@@ -1,4 +1,4 @@
-## BeamUp
+## BeamUp 💬 🛞 📞
 
 ![image](https://github.com/user-attachments/assets/131d3149-31cb-40eb-98a0-4b55a4084f69)
 
