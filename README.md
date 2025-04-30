@@ -36,3 +36,9 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 - Communicate: Start video calls or chat conversations to practice together
 
 ## 🤝 How It Helps Users
+
+- Practice with Real People: Authentic conversations with native speakers
+- Flexible Learning: Practice on your schedule through video or text
+- Cultural Exchange: Learn beyond language with cultural insights and connections
+- Global Community: Connect with people from around the world
+- Skill Development: Build confidence in real-world language situations
