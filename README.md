@@ -8,3 +8,11 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 
 
 ## ✨ Features
+
+
+- Video Calling: Real-time face-to-face conversations with native speakers
+- Instant Messaging: Text-based communication for convenient practice
+- Language Matching: Connect with partners who speak your target language
+- User Profiles: Showcase your language skills and learning goals
+- Friend Requests: Build your network of language partners
+- Notifications: Stay updated on new connections and messages
