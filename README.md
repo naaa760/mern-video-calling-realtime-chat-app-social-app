@@ -5,3 +5,6 @@
 ## 📖 Overview
 
 BeamUp bridges the gap between traditional language learning methods and real-world applications, providing a supportive community where users can gain confidence and fluency through authentic conversations. Whether you're looking to practice a new language, make international friends, or improve your communication skills, BeamUp creates the perfect environment.
+
+
+## ✨ Features
