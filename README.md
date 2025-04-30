@@ -34,3 +34,5 @@ BeamUp bridges the gap between traditional language learning methods and real-wo
 - Find Partners: Browse recommended users based on mutual language interests
 - Connect: Send friend requests to potential language partners
 - Communicate: Start video calls or chat conversations to practice together
+
+## 🤝 How It Helps Users
