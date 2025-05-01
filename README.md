@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/131d3149-31cb-40eb-98a0-4b55a4084f69)
 
 
-https://mern-video-calling-realtime-chat-app-50ki.onrender.com/home
+https://mern-video-calling-realtime-chat-app-50ki.onrender.com/
 
 
 ## 📖 Overview
